@@ -1,3 +1,6 @@
+-- ==============================
+-- SALES DATA ANALYSIS PROJECT
+-- ==============================
 Create Database Sales;
 use Sales;
 CREATE TABLE sales_data (
@@ -57,5 +60,7 @@ GROUP BY month
 ORDER BY month;
 
 -- Insight:
--- Electronics category generates highest revenue.
+-- The electronics category generates the highest revenue.
 -- Monthly analysis shows that revenue was higher in January compared to February, indicating a decline in sales performance.
+-- Top 2 customers contribute a large portion of total sales.
+
