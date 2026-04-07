@@ -1,24 +1,24 @@
-# sql-sales-analysis
+# 📊 SQL Sales Data Analysis
 
-## Project Overview
-This project focuses on analysing sales data using SQL to extract meaningful business insights related to revenue, customer behaviour, and product performance.
+## 🔍 Project Overview
+This project analyses sales data using SQL to extract business insights, including revenue trends, customer behaviour, and product performance.
 
-## Tools Used
+## 🛠️ Tools Used
 - SQL (MySQL)
 
-## Key Analysis
+## 📌 Key Analysis
 - Total revenue calculation
-- Top-selling products
+- Top-performing products
 - Customer spending analysis
-- Category-wise performance
+- Category-wise revenue
 - Monthly sales trends
 
-## Key Insights
-- The electronics category generates the highest revenue
-- A few top customers contribute a large portion of total sales
-- Revenue was higher in January compared to February, indicating a decline in sales
+## 📈 Key Insights
+- The electronics category generates the highest revenue.
+- Monthly analysis shows that revenue was higher in January compared to February, indicating a decline in sales performance.
+- Top 2 customers contribute a large portion of total sales.
 
-## Skills Demonstrated
+## 🚀 Skills Demonstrated
 - SQL Queries (SELECT, WHERE, GROUP BY, ORDER BY)
 - Data Analysis
 - Data Aggregation
