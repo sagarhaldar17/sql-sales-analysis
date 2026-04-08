@@ -60,7 +60,7 @@ GROUP BY month
 ORDER BY month;
 
 -- Insight:
--- The electronics category generates the highest revenue.
--- Monthly analysis shows that revenue was higher in January compared to February, indicating a decline in sales performance.
--- Top 2 customers contribute a large portion of total sales.
-
+-- Total revenue generated is ₹147,000.
+-- Electronics category contributes ₹128,000 (~87%) of total revenue, making it the top-performing category.
+-- Top 2 customers (Amit and Rahul) contribute ₹95,000 (~65%) of total revenue.
+-- Monthly analysis shows revenue decreased from ₹102,000 in January to ₹45,000 in February.
